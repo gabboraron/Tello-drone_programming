@@ -1,4 +1,8 @@
-# Tello-Object-Tracking
+# DJI TELLO SDK
+- https://github.com/damiafuentes/DJITelloPy
+- https://github.com/dji-sdk/Tello-Python
+
+# Tello Object Tracking
 
 [![Watch Video](https://github.com/murtazahassan/Tello-Object-Tracking/blob/master/Programming%20Drone.jpg)](https://youtu.be/vDOkUHNdmKs)
 
